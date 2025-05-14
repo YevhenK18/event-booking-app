@@ -54,7 +54,7 @@ event-booking-app/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/event-booking-app.git
+   git clone https://github.com/YevhenK18/event-booking-app.git
    cd event-booking-app
    ```
 
